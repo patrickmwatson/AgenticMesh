@@ -25,7 +25,6 @@ AgenticMesh bridges AI platforms (like ChatGPT, Claude, Cursor) with version-con
 
 ## Project Structure
 
-
 ```
 AgenticMesh/
 ├── docs/                  # Documentation
